@@ -1,0 +1,242 @@
+[
+  {
+    "name": "故宫博物院",
+    "province": "北京市",
+    "description": "明清两代的皇家宫殿，世界上现存规模最大、保存最完整的木质结构古建筑之一，是中华文明的瑰宝。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Beijing_-_Forbidden_City_-_Courtyard_-_P1060396.JPG/800px-Beijing_-_Forbidden_City_-_Courtyard_-_P1060396.JPG",
+    "video_url": "https://www.bilibili.com/video/BV1DT4m1S7KL",
+    "address": "北京市东城区景山前街4号"
+  },
+  {
+    "name": "天坛公园",
+    "province": "北京市",
+    "description": "明清两朝皇帝祭天的场所，中国现存最大的古代祭祀性建筑群，体现了中国古代建筑艺术的精华。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Temple_of_Heaven_Park_in_autumn.jpg/800px-Temple_of_Heaven_Park_in_autumn.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1eMg4eUEP1",
+    "address": "北京市东城区天坛路甲1号"
+  },
+  {
+    "name": "颐和园",
+    "province": "北京市",
+    "description": "中国清朝时期皇家园林，以昆明湖、万寿山为基础，汲取江南园林的设计手法而建成，被誉为'皇家园林博物馆'。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Summer_Palace_in_Beijing_13.jpg/800px-Summer_Palace_in_Beijing_13.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1Eu411J7yd",
+    "address": "北京市海淀区新建宫门路19号"
+  },
+  {
+    "name": "外滩",
+    "province": "上海市",
+    "description": "上海的标志性景点，汇集了数十栋风格各异的历史建筑，对岸是现代化的陆家嘴金融区，展现了上海的历史与现代的完美融合。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Shanghai_-_P1040363_edit.JPG/800px-Shanghai_-_P1040363_edit.JPG",
+    "video_url": "https://www.bilibili.com/video/BV1JA4m1P77z",
+    "address": "上海市黄浦区中山东一路"
+  },
+  {
+    "name": "东方明珠塔",
+    "province": "上海市",
+    "description": "上海的标志性建筑之一，塔高468米，是亚洲第四、世界第六高塔，塔内有太空舱、旋转餐厅等设施。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oriental_Pearl_Tower_from_the_bund.jpg/800px-Oriental_Pearl_Tower_from_the_bund.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1Uo4y1c7o1",
+    "address": "上海市浦东新区陆家嘴世纪大道1号"
+  },
+  {
+    "name": "豫园",
+    "province": "上海市",
+    "description": "明代私人园林，典型的江南古典园林风格，周围是著名的城隍庙商业区，是体验老上海风情的绝佳去处。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Shanghai_Yu_Garden_01.jpg/800px-Shanghai_Yu_Garden_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1WStmzaEyi",
+    "address": "上海市黄浦区豫园老街1号"
+  },
+  {
+    "name": "天津之眼",
+    "province": "天津市",
+    "description": "世界上唯一建在桥上的摩天轮，是天津的地标建筑，乘坐摩天轮可以俯瞰整个天津市区的美景。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tianjin_eye_in_night.jpg/800px-Tianjin_eye_in_night.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1qrbrzqEnE",
+    "address": "天津市红桥区三岔河口永乐桥上"
+  },
+  {
+    "name": "五大道",
+    "province": "天津市",
+    "description": "拥有上世纪二三十年代建成的风格各异的欧式建筑群，有'万国建筑博览苑'之称，是领略异国风情的好地方。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Five_Avenue%2C_Tianjin_2013-08-15_01.JPG/800px-Five_Avenue%2C_Tianjin_2013-08-15_01.JPG",
+    "video_url": "https://www.bilibili.com/video/BV1xk4y1u7Jr",
+    "address": "天津市和平区重庆道83号"
+  },
+  {
+    "name": "古文化街",
+    "province": "天津市",
+    "description": "以天后宫为中心的商业街区，是天津民俗文化的重要载体，可以体验到丰富的传统文化和购买特色商品。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tianjin_Ancient_Culture_Street_01.jpg/800px-Tianjin_Ancient_Culture_Street_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1cTGfe4ECo",
+    "address": "天津市南开区通北路"
+  },
+  {
+    "name": "洪崖洞",
+    "province": "重庆市",
+    "description": "以巴渝传统建筑吊脚楼群为主体的旅游区，夜景尤为壮观，是现代网红打卡地和传统建筑的完美结合。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Chongqing_Hongya_Cave.jpg/800px-Chongqing_Hongya_Cave.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1o33jefEaT",
+    "address": "重庆市渝中区嘉滨路88号"
+  },
+  {
+    "name": "磁器口古镇",
+    "province": "重庆市",
+    "description": "拥有1400余年历史的古镇，蕴含丰富的巴渝文化，是体验重庆传统文化和品尝地道小吃的好去处。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ciqikou_Ancient_Town_01.jpg/800px-Ciqikou_Ancient_Town_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV14Y4y1c77P",
+    "address": "重庆市沙坪坝区磁器口古镇"
+  },
+  {
+    "name": "武隆喀斯特",
+    "province": "重庆市",
+    "description": "世界自然遗产地，以天生三桥、龙水峡地缝等景观著称，是电影《变形金刚4》和《满城尽带黄金甲》的取景地。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wulong_Karst_01.jpg/800px-Wulong_Karst_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1EP4y1N7GK",
+    "address": "重庆市武隆区武隆喀斯特旅游区"
+  },
+  {
+    "name": "承德避暑山庄",
+    "province": "河北省",
+    "description": "中国四大名园之一，是清代皇帝夏日避暑和处理政务的场所，是中国现存最大的古代皇家园林。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Chengde_Summer_Palace_%281%29.jpg/800px-Chengde_Summer_Palace_%281%29.jpg",
+    "video_url": "https://www.bilibili.com/video/BV13hbSz7Ecf",
+    "address": "河北省承德市双桥区丽正门大街28号"
+  },
+  {
+    "name": "北戴河",
+    "province": "河北省",
+    "description": "著名的海滨度假胜地，以沙软潮平的海滩和宜人的气候著称，是中国四大别墅区之一。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Beidaihe_Beach_01.jpg/800px-Beidaihe_Beach_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1NqbPz1Eb2",
+    "address": "河北省秦皇岛市北戴河区东经路6号"
+  },
+  {
+    "name": "白洋淀",
+    "province": "河北省",
+    "description": "华北地区最大的淡水湖泊，有'华北明珠'之称，以荷花淀、芦苇荡等水乡风光和丰富的水生生物闻名。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Baiyangdian_Lake_01.jpg/800px-Baiyangdian_Lake_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1v98MzVE7V",
+    "address": "河北省保定市安新县白洋淀风景区"
+  },
+  {
+    "name": "五台山",
+    "province": "山西省",
+    "description": "中国四大佛教名山之首，以悠久的佛教文化和保存完好的古建筑群著称，是文殊菩萨的道场。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wutai_Mountain_01.jpg/800px-Wutai_Mountain_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV11cp1eJEPc",
+    "address": "山西省忻州市五台县台怀镇"
+  },
+  {
+    "name": "平遥古城",
+    "province": "山西省",
+    "description": "中国保存最为完整的明清时期古城之一，被誉为'中国古建筑的荟萃和宝库'，是世界文化遗产。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pingyao_Ancient_City_01.jpg/800px-Pingyao_Ancient_City_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1JVbBzFEqA",
+    "address": "山西省晋中市平遥县古城内"
+  },
+  {
+    "name": "云冈石窟",
+    "province": "山西省",
+    "description": "世界文化遗产，中国四大石窟之一，以精美的佛教石雕艺术闻名，体现了5-6世纪时期中国佛教艺术的最高成就。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Yungang_Grottoes_01.jpg/800px-Yungang_Grottoes_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1iEb7zNEUZ",
+    "address": "山西省大同市云冈区云冈镇1号"
+  },
+  {
+    "name": "沈阳故宫",
+    "province": "辽宁省",
+    "description": "清朝初期的皇宫，中国现存的两大宫殿建筑群之一，是除北京故宫外中国保存最完整的古代宫殿建筑群。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Shenyang_Imperial_Palace_01.jpg/800px-Shenyang_Imperial_Palace_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1Ku411M7j8",
+    "address": "辽宁省沈阳市沈河区沈阳路171号"
+  },
+  {
+    "name": "大连海滨",
+    "province": "辽宁省",
+    "description": "以浪漫的海滨风光和现代化的城市景观著称，有'北方明珠'之称，是著名的避暑胜地和旅游城市。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dalian_Beach_01.jpg/800px-Dalian_Beach_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1WE411o7zd",
+    "address": "辽宁省大连市中山区滨海中路"
+  },
+  {
+    "name": "金石滩",
+    "province": "辽宁省",
+    "description": "以独特的海滨地貌景观和金石文化闻名，拥有3-9亿年前形成的震旦纪、寒武纪沉积岩，被称为'天然地质博物馆'。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jinshi_Tan_01.jpg/800px-Jinshi_Tan_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1d84y1M7nA",
+    "address": "辽宁省大连市金州区金石滩国家旅游度假区"
+  },
+  {
+    "name": "长白山天池",
+    "province": "吉林省",
+    "description": "中国最深的火山口湖，以神秘的水怪传说和壮丽的自然风光著称，是中朝两国的界湖。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Changbai_Mountain_Tianchi.jpg/800px-Changbai_Mountain_Tianchi.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1oPtqzpEvu",
+    "address": "吉林省延边朝鲜族自治州安图县二道白河镇"
+  },
+  {
+    "name": "伪满皇宫博物院",
+    "province": "吉林省",
+    "description": "末代皇帝溥仪居住和办公的地方，具有重要的历史价值，是日本侵略中国东北、实行殖民统治的重要见证。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PuYi_Palace_01.jpg/800px-PuYi_Palace_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1xxbrzmE9J",
+    "address": "吉林省长春市宽城区光复路5号"
+  },
+  {
+    "name": "净月潭",
+    "province": "吉林省",
+    "description": "形似弯月的碧水潭，被誉为'亚洲第一大人工林海'，是国家级风景名胜区和国家森林公园。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jingyue_Tan_01.jpg/800px-Jingyue_Tan_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1xxbrzmE9J",
+    "address": "吉林省长春市净月开发区净月大街5840号"
+  },
+  {
+    "name": "哈尔滨冰雪大世界",
+    "province": "黑龙江省",
+    "description": "世界上最大的冰雪主题公园，以精美的冰雕艺术闻名，是哈尔滨国际冰雪节的重要组成部分。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Harbin_Ice_and_Snow_World.jpg/800px-Harbin_Ice_and_Snow_World.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1jzbzzcEvy",
+    "address": "黑龙江省哈尔滨市松北区太阳岛风景区内"
+  },
+  {
+    "name": "五大连池",
+    "province": "黑龙江省",
+    "description": "由火山喷发堵塞白河而形成的五个相互连接的湖泊，是中国著名的火山游览区和疗养胜地。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wudalianchi_01.jpg/800px-Wudalianchi_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1YF411r7JM",
+    "address": "黑龙江省黑河市五大连池市风景区"
+  },
+  {
+    "name": "镜泊湖",
+    "province": "黑龙江省",
+    "description": "中国最大的高山堰塞湖，以湖光山色和瀑布群著称，是国家级风景名胜区和世界地质公园。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jingpo_Lake_01.jpg/800px-Jingpo_Lake_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1aj41187zM",
+    "address": "黑龙江省牡丹江市宁安市镜泊湖风景区"
+  },
+  {
+    "name": "苏州园林",
+    "province": "江苏省",
+    "description": "以拙政园、留园为代表的古典园林，被誉为'咫尺之内再造乾坤'，体现了中国古典园林艺术的精髓。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Suzhou_Gardens_01.jpg/800px-Suzhou_Gardens_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1v2tZz5E5M",
+    "address": "江苏省苏州市姑苏区园林路"
+  },
+  {
+    "name": "南京中山陵",
+    "province": "江苏省",
+    "description": "伟大的民主革命先行者孙中山的陵寝，是中国近代建筑史上第一座建筑群整体布局的杰作。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sun_Yat-sen_Mausoleum_01.jpg/800px-Sun_Yat-sen_Mausoleum_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV18V411K7d6",
+    "address": "江苏省南京市玄武区石象路7号"
+  },
+  {
+    "name": "瘦西湖",
+    "province": "江苏省",
+    "description": "以湖面瘦长、景色秀丽著称，有'园林之盛，甲于天下'之誉，是国家级风景名胜区和世界文化遗产。",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Slender_West_Lake_01.jpg/800px-Slender_West_Lake_01.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1N14y1Z7nG",
+    "address": "江苏省扬州市邗江区瘦西湖路1号"
+  }
+]

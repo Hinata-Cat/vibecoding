@@ -1,0 +1,82 @@
+[
+  {
+    "name": "滕王阁旅游区",
+    "province": "江西省",
+    "description": "因初唐诗人王勃所作《滕王阁序》而闻名于世，素有“西江第一楼”之美誉，是江南三大名楼之一",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nanchang_Tengwangge.jpg/800px-Nanchang_Tengwangge.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1mzbMzfEfY",
+    "address": "江西省南昌市东湖区仿古街58号"
+  },
+  {
+    "name": "南昌汉代海昏侯国遗址公园",
+    "province": "江西省",
+    "description": "是我国目前发现的面积最大、保存最好、格局最完整、内涵最为丰富的典型汉代列侯国都城聚落遗址，出土了大量珍贵文物",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Haihunhou_Ruins_Museum_Exhibition_Hall.jpg/800px-Haihunhou_Ruins_Museum_Exhibition_Hall.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1zt4y1i7vG",
+    "address": "南昌市新建区紫金大道1号"
+  },
+  {
+    "name": "望仙谷",
+    "province": "江西省",
+    "description": "位于上饶市广信区望仙乡，这里景色优美，有独特的建筑风格，仿佛是隐藏在山间的世外桃源",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wangxian_Gorge_2023.jpg/800px-Wangxian_Gorge_2023.jpg",
+    "video_url": "https://www.bilibili.com/video/BV167411y7X9",
+    "address": "江西省上饶市广信区望仙乡636县道"
+  },
+  {
+    "name": "婺源篁岭景区",
+    "province": "江西省",
+    "description": "以高岭梯田花海和独特的晒秋民俗闻名，是中国最美乡村的代表之一",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Huangling_Ancient_Village_2016.jpg/800px-Huangling_Ancient_Village_2016.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1GJ411i7mW",
+    "address": "江西省上饶市婺源县江湾镇篁岭村"
+  },
+  {
+    "name": "庐山风景名胜区",
+    "province": "江西省",
+    "description": "素以雄、奇、险、秀闻名于世，是中华十大名山之一，也是中国四大避暑圣地之一，浸润着厚重的人文古韵",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mount_Lushan_Scenic_Area.jpg/800px-Mount_Lushan_Scenic_Area.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1KM4y177aH",
+    "address": "江西省九江市庐山市牯岭镇河西路19号"
+  },
+  {
+    "name": "景德镇古窑民俗博览区",
+    "province": "江西省",
+    "description": "全国唯一一家以陶瓷文化为主题的国家5A级旅游景区，可在此欣赏古老的手工制瓷技艺，感受千年陶瓷文化的光耀灿烂",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jingdezhen_Ancient_Kiln_Museum.jpg/800px-Jingdezhen_Ancient_Kiln_Museum.jpg",
+    "video_url": "https://www.bilibili.com/video/BV15E411x7QT",
+    "address": "江西省景德镇市古窑路1号"
+  },
+  {
+    "name": "三清山风景名胜区",
+    "province": "江西省",
+    "description": "世界地质公园，以中生代花岗岩和元古代-古生代地层为主，有类型齐全、特征典型的花岗岩微地貌现象，也是道教名山",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sanqingshan_Mountain_Scenic_Area.jpg/800px-Sanqingshan_Mountain_Scenic_Area.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1bPCKY2Eso",
+    "address": "江西省上饶市玉山县与德兴市交界处"
+  },
+  {
+    "name": "龙虎山风景名胜区",
+    "province": "江西省",
+    "description": "道教发源地之一，拥有独特的丹霞地貌，还可以观看悬棺表演，体验竹筏漂流，探秘古越文化",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Longhu_Mountain_Rafting.jpg/800px-Longhu_Mountain_Rafting.jpg",
+    "video_url": "https://www.bilibili.com/video/BV1TE411v7QH",
+    "address": "江西省鹰潭市龙虎山大道1号"
+  },
+  {
+    "name": "鄱阳湖",
+    "province": "江西省",
+    "description": "中国第一大淡水湖，冬季是观候鸟的绝佳地点，如白鹤等众多候鸟在此栖息，夏季湖景优美",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Poyang_Lake_Winter_Migratory_Birds.jpg/800px-Poyang_Lake_Winter_Migratory_Birds.jpg",
+    "video_url": "https://www.bilibili.com/video/BV15E411x7QT",
+    "address": "江西省九江、南昌、上饶三市"
+  },
+  {
+    "name": "明月山",
+    "province": "江西省",
+    "description": "温泉之乡，有高山瀑布等景观，适合休闲养生，自然风光与人文景观相得益彰",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mingyue_Mountain_Scenic_Area.jpg/800px-Mingyue_Mountain_Scenic_Area.jpg",
+    "video_url": "https://www.bilibili.com/video/BV15E411x7QT",
+    "address": "江西省宜春市袁州区温汤镇潭下村"
+  }
+]
